@@ -1,19 +1,20 @@
 # Privacy Policy
 
-Protecting your private information is our priority. This Statement of Privacy applies to monetr, and
-monetr LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless
-otherwise noted, all references to monetr LLC include https://monetr.app and monetr. The monetr
-application is a budgeting and expense planning application. By using the monetr application, you
+Protecting your private information is our priority. This Statement of Privacy applies to simfiny, and
+simfiny LLC and governs data collection and usage. For the purposes of this Privacy Policy, unless
+otherwise noted, all references to simfiny LLC include https://simfiny.app and simfiny. The simfiny
+application is a budgeting and expense planning application. By using the simfiny application, you
 consent to the data practices described in this statement.
 
 ## Collection of your Personal Information
-In order to better provide you with products and services offered, monetr may collect personally
+
+In order to better provide you with products and services offered, simfiny may collect personally
 identifiable information, such as your:
 
 - First and Last Name
 - E-mail Address
 
-If you purchase monetr's products and services, we collect billing and credit card information. This
+If you purchase simfiny's products and services, we collect billing and credit card information. This
 information is used to complete the purchase transaction.
 
 We do not collect any personal information about you unless you voluntarily provide it to us.
@@ -26,27 +27,30 @@ and/or products you have requested from us. We also may gather additional person
 information in the future.
 
 ## Use of your Personal Information
-monetr collects and uses your personal information to operate and deliver the services you have
+
+simfiny collects and uses your personal information to operate and deliver the services you have
 requested.
 
-monetr may also use your personally identifiable information to inform you of other products or
-services available from monetr and its affiliates.
+simfiny may also use your personally identifiable information to inform you of other products or
+services available from simfiny and its affiliates.
 
 ## Sharing Information with Third Parties
-monetr does not sell, rent or lease its customer lists to third parties.
 
-monetr may share data with trusted partners to help perform statistical analysis, send you email, or
+simfiny does not sell, rent or lease its customer lists to third parties.
+
+simfiny may share data with trusted partners to help perform statistical analysis, send you email, or
 provide customer support. All such third parties are prohibited from using your personal information
-except to provide these services to monetr, and they are required to maintain the confidentiality of
+except to provide these services to simfiny, and they are required to maintain the confidentiality of
 your information.
 
-monetr may disclose your personal information, without notice, if required to do so by law or in the
+simfiny may disclose your personal information, without notice, if required to do so by law or in the
 good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply
-with legal process served on monetr or the site; (b) protect and defend the rights or property of
-monetr; and/or (c) act under exigent circumstances to protect the personal safety of users of
-monetr, or the public.
+with legal process served on simfiny or the site; (b) protect and defend the rights or property of
+simfiny; and/or (c) act under exigent circumstances to protect the personal safety of users of
+simfiny, or the public.
 
 ## Right to Deletion
+
 Subject to certain exceptions set out below, on receipt of a verifiable request from you, we will:
 
 - Delete your personal information from our records; and
@@ -77,13 +81,15 @@ it is necessary to:
   compatible with the context in which you provided the information.
 
 ## Children Under Thirteen
-monetr does not knowingly collect personally identifiable information from children under the age
+
+simfiny does not knowingly collect personally identifiable information from children under the age
 of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for
 permission to use this application.
 
-## Disconnecting your monetr Account from Third Party Websites
-You will be able to connect your monetr account to third party accounts. **BY CONNECTING
-YOUR MONETR ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU
+## Disconnecting your simfiny Account from Third Party Websites
+
+You will be able to connect your simfiny account to third party accounts. **BY CONNECTING
+YOUR simfiny ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU
 ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE
 CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN
 ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES).**
@@ -92,24 +98,27 @@ ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES).**
 IDENTIFYING INFORMATION, TO BE SHARED IN THIS MANNER, DO NOT USE**
 
 THIS FEATURE. You may disconnect your account from a third party account at any time.
-User's connect monetr to their bank account's via a third party service called Plaid. You can
-disconnect your bank account from monetr in the "View Bank Accounts" menu. Alternatively, you
-can revoke monetr's access to your bank account information by going to https://my.plaid.com/
+User's connect simfiny to their bank account's via a third party service called Plaid. You can
+disconnect your bank account from simfiny in the "View Bank Accounts" menu. Alternatively, you
+can revoke simfiny's access to your bank account information by going to https://my.plaid.com/
 
 ## E-mail Communications
-From time to time, monetr may contact you via email for the purpose of providing announcements,
+
+From time to time, simfiny may contact you via email for the purpose of providing announcements,
 promotional offers, alerts, confirmations, surveys, and/or other general communication.
 
 If you would like to stop receiving marketing or promotional communications via email from
-monetr, you may opt out of such communications by clicking the "unsubscribe" button in the footer
-or body of the emails. Or by reaching out to support@monetr.app.
+simfiny, you may opt out of such communications by clicking the "unsubscribe" button in the footer
+or body of the emails. Or by reaching out to support@simfiny.app.
 
 ## External Data Storage Sites
+
 We may store your data on servers provided by third party hosting vendors with whom we have
 contracted.
 
 ## Changes to this Statement
-monetr reserves the right to change this Privacy Policy from time to time. We will notify you about
+
+simfiny reserves the right to change this Privacy Policy from time to time. We will notify you about
 significant changes in the way we treat personal information by sending a notice to the primary
 email address specified in your account, by placing a prominent notice on our application, and/or
 by updating any privacy information. Your continued use of the application and/or Services
@@ -117,11 +126,12 @@ available after such modifications will constitute your: (a) acknowledgment of t
 Policy; and (b) agreement to abide and be bound by that Policy.
 
 ## Contact Information
-monetr welcomes your questions or comments regarding this Statement of Privacy. If you believe
-that monetr has not adhered to this Statement, please contact monetr at:
+
+simfiny welcomes your questions or comments regarding this Statement of Privacy. If you believe
+that simfiny has not adhered to this Statement, please contact simfiny at:
 
 Email Address:
-support@monetr.app
+support@simfiny.app
 
 Telephone number:
 651 - 243 - 0035

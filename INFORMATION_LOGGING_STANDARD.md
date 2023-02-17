@@ -18,7 +18,7 @@ whether developed in-house or procured, support necessary audit logging and log 
 
 ## 3. Scope
 
-This policy applies to all production and non-production systems on monetr LLC's Network.
+This policy applies to all production and non-production systems on simfiny LLC's Network.
 
 ## 4. Standard
 
@@ -53,7 +53,7 @@ Therefore, logs shall be created whenever any of the following activities are re
    limit or threshold (such as for CPU, memory, network connections, network bandwidth, disk space, or other resources),
    the failure of network services such as DHCP or DNS, or hardware fault; and
 10. Detection of suspicious/malicious activity such as from an Intrusion Detection or Prevention System (IDS/IPS),
-   anti-virus system, or anti-spyware system.
+    anti-virus system, or anti-spyware system.
 
 ### 4.3 Elements of the Log
 
@@ -103,4 +103,3 @@ Any exception to the policy must be approved by the Infosec team in advance.
 
 An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of
 employment.
-

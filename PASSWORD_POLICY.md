@@ -3,7 +3,7 @@
 ## 1. Overview
 
 Passwords are an important aspect of computer security. A poorly chosen password may result in unauthorized access
-and/or exploitation of our resources. All staff, including contractors and vendors with access to monetr LLC systems,
+and/or exploitation of our resources. All staff, including contractors and vendors with access to simfiny LLC systems,
 are responsible for taking the appropriate steps, as outlined below, to select and secure their passwords.
 
 ## 2. Purpose
@@ -14,8 +14,8 @@ protection of those passwords.
 ## 3. Scope
 
 The scope of this policy includes all personnel who have or are responsible for an account (or any form of access that
-supports or requires a password) on any system that resides at any monetr LLC facility, has access to the monetr LLC
-network, or stores any nonpublic monetr LLC information.
+supports or requires a password) on any system that resides at any simfiny LLC facility, has access to the simfiny LLC
+network, or stores any nonpublic simfiny LLC information.
 
 ## 4. Policy
 
@@ -42,7 +42,7 @@ in compliance with the [_Password Construction Guidelines_](PASSWORD_CONSTRUCTIO
 ### 4.3 Password Protection
 
 **4.3.1** Passwords must not be shared with anyone, including supervisors and coworkers. All passwords are to be treated
-as sensitive, Confidential monetr LLC information.
+as sensitive, Confidential simfiny LLC information.
 
 **4.3.2** Passwords must not be inserted into email messages, Alliance cases or other forms of electronic communication,
 nor revealed over the phone to anyone.

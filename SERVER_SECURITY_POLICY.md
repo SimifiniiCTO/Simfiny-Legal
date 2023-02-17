@@ -8,27 +8,28 @@ installation policies, ownership and configuration management are all about doin
 ## 2. Purpose
 
 The purpose of this policy is to establish standards for the base configuration of internal server equipment that is
-owned and/or operated by monetr LLC. Effective implementation of this policy will minimize unauthorized access to monetr
+owned and/or operated by simfiny LLC. Effective implementation of this policy will minimize unauthorized access to simfiny
 LLC proprietary information and technology.
 
 ## 3. Scope
 
-All employees, contractors, consultants, temporary and other workers at monetr LLC and its subsidiaries must adhere to
-this policy. This policy applies to server equipment that is owned, operated, or leased by monetr LLC or registered
-under a monetr LLC-owned internal network domain. This policy specifies requirements for equipment on the internal
-monetr LLC network.
+All employees, contractors, consultants, temporary and other workers at simfiny LLC and its subsidiaries must adhere to
+this policy. This policy applies to server equipment that is owned, operated, or leased by simfiny LLC or registered
+under a simfiny LLC-owned internal network domain. This policy specifies requirements for equipment on the internal
+simfiny LLC network.
 
 ## 4. Policy
 
 ### 4.1 General Requirements
 
-**4.1.1** All internal servers deployed at monetr LLC must be owned by an operational group that is responsible for
+**4.1.1** All internal servers deployed at simfiny LLC must be owned by an operational group that is responsible for
 system administration. Approved server configuration guides must be established and maintained by each operational
 group, based on business needs and approved by InfoSec. Operational groups should monitor configuration compliance and
 implement an exception policy tailored to their environment. Each operational group must establish a process for
 changing the configuration guides, which includes review and approval by InfoSec. The following items must be met:
+
 - Servers must be registered within the corporate enterprise management system. At a minimum, the following information
-is required to positively identify the point of contact:
+  is required to positively identify the point of contact:
   - Server contact(s) and location, and a backup contact.
   - Hardware and Operating System/Version.
   - Main functions and applications, if applicable.
@@ -62,15 +63,16 @@ must be performed over secure channels, (e.g., encrypted network connections usi
 
 **4.2.9** Servers are specifically prohibited from operating from uncontrolled cubicle areas.
 
-
 ### 4.3 Monitoring
 
 **4.3.1** All security-related events on critical or sensitive systems must be logged and audit trails saved as follows:
+
 - All security related logs will be kept online for a minimum of 1 week.
 - Daily incremental backups will be retained for at least 90 days.
 
 **4.3.2** Security-related events will be reported to InfoSec, who will review logs and report incidents to IT
 management. Corrective measures will be prescribed as needed. Security related events include, but are not limited to:
+
 - Port-scan attacks.
 - Evidence of unauthorized access to privileged accounts.
 - Anomalous occurrences that are not related to specific applications on the host.
@@ -94,4 +96,3 @@ employment.
 ## 6. Related Standards, Policies and Processes
 
 - [Audit Policy](AUDIT_POLICY.md)
-

@@ -24,13 +24,13 @@ have the following characteristics:
 
 - Contain eight characters or less.
 - Contain personal information such as birthdates, addresses, phone numbers, or names of family members, pets, friends,
-and fantasy characters.
+  and fantasy characters.
 - Contain number patterns such as aaabbb, qwerty, zyxwvuts, or 123321.
 - Are some version of "Welcome123" "Password123" "Changeme123"
 
 In addition, every work account should have a different, unique password. To enable users to maintain multiple
 passwords, we highly encourage the use of the 1Password password management software that is authorized and provided by
-monetr LLC to all staff. Whenever possible, also enable the use of multifactor authentication.
+simfiny LLC to all staff. Whenever possible, also enable the use of multifactor authentication.
 
 ## 5. Policy Compliance
 
@@ -47,4 +47,3 @@ Any exceptions to the policy must be approved by the InfoSec team in advance.
 
 An employee found to have violated this policy may be subject to disciplinary action, up to and including termination of
 employment.
-
